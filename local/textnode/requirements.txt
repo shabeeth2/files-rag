@@ -1,0 +1,11 @@
+python-docx
+PyPDF2
+openpyxl
+python-pptx
+xlrd
+pandas
+PyMuPDF
+nltk
+numpy
+requests
+beautifulsoup4
